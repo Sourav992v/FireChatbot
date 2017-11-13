@@ -1,0 +1,38 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/Blue_700</item>
+        <item name="colorPrimaryDark">@color/Blue_900</item>
+        <item name="colorAccent">@color/Green_A700</item>
+        <item name="windowActionBar">false</item>
+        <item name="actionModeBackground">@android:color/transparent</item>
+        <item name="imageButtonStyle">@drawable/button_selector</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:buttonStyle">@style/FireButtonStyle</item>
+        <item name="windowActionModeOverlay">true</item>
+
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+
+    <style name="FireButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">@color/Blue_Gray_50</item>
+
+    </style>
+
+    <style name="SignInTheme" parent="Theme.AppCompat.Light.NoActionBar" />
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@color/cardview_light_background</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_internet_connection_image">No Internet ImageView</string>
+    <string name="empty_view_title_text">Connection Issue</string>
+    <string name="empty_view_subtitle_text">Oops ! chat room is not available</string>
+    <string name="chat_image_view">chat image view</string>
+    <string name="chat_text_view">chat text view</string>
+    <string name="chat_edit_text">Say Something...</string>
+    <string name="sent_message_image">Message_Image</string>
+    <string name="item_image_view">Item Image View</string>
+    <string name="nav_home">Home</string>
+    <string name="sign_out_nav">Sign Out</string>
+    <string name="invite_nav_menu">Invite</string>
+    <string name="navigation_header">Navigation Header</string>
+    <string name="collapsing_image">Collapsing Image</string>
+</resources>
