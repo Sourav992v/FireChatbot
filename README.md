@@ -1,5 +1,5 @@
 # FireChatbot [![Build Status](https://travis-ci.org/firebase/FirebaseUI-Android.svg?branch=master)](https://travis-ci.org/firebase/FirebaseUI-Android)
-Social messaging application that allows users to send and receive text messages and images in real-time.
+Social messaging application that allows users to send and receive images, emojis and text messages in real-time.
 
 # Screenshots
 
